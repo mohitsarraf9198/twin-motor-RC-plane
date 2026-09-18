@@ -1,1 +1,0 @@
-# twin-motor-RC-plane
