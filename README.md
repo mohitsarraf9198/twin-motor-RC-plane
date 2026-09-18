@@ -25,7 +25,7 @@
 <img src="media/plane2.jpeg" width="400"/>
 <br/>
 <img src="media/plane4.jpeg" width="400"/>
-<img src="media/plane6.jpeg" width="400"/>
+<img src="media/media/plane_.jpeg" width="400"/>
 </div>
 
 <div align="center">
